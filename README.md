@@ -8,4 +8,4 @@ Use the training set of weather conditions to predict if it will rain tomorrow.
 Present your solution in a Jupyter notebook, and publish it either to either Github or Google Collab.
 
 ## Submission
-Email your solutions to tim@milkchoc.com.au
+Email your solutions along with a copy letter and resume to tim@milkchoc.com.au
